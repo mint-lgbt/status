@@ -8,9 +8,13 @@ sites:
     url: 206.127.46.95
     port: 80
   - name: Ralsei
+    check: "tcp-ping"
     url: ralsei.nightcore.monster
+    port: 80
   - name: Amity
+    check: "tcp-ping"
     url: 149.102.157.145
+    port: 80
     
 assignees:
   - lunaisnotaboy
