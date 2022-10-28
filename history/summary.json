@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 60,
-    "timeDay": 60,
-    "timeWeek": 60,
-    "timeMonth": 60,
-    "timeYear": 60,
+    "time": 39,
+    "timeDay": 39,
+    "timeWeek": 39,
+    "timeMonth": 39,
+    "timeYear": 39,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "ralsei.nightcore.monster",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ralsei",
-    "status": "down",
-    "uptime": "8.37%",
-    "uptimeDay": "8.37%",
-    "uptimeWeek": "8.37%",
-    "uptimeMonth": "8.37%",
-    "uptimeYear": "8.37%",
-    "time": 418,
-    "timeDay": 418,
-    "timeWeek": 418,
-    "timeMonth": 418,
-    "timeYear": 418,
+    "status": "up",
+    "uptime": "3.71%",
+    "uptimeDay": "3.71%",
+    "uptimeWeek": "3.71%",
+    "uptimeMonth": "3.71%",
+    "uptimeYear": "3.71%",
+    "time": 305,
+    "timeDay": 305,
+    "timeWeek": 305,
+    "timeMonth": 305,
+    "timeYear": 305,
     "dailyMinutesDown": {
-      "2022-10-28": 0
+      "2022-10-28": 3
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "149.102.157.145",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "amity",
-    "status": "down",
-    "uptime": "10.08%",
-    "uptimeDay": "10.08%",
-    "uptimeWeek": "10.08%",
-    "uptimeMonth": "10.08%",
-    "uptimeYear": "10.08%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.51%",
+    "uptimeDay": "2.51%",
+    "uptimeWeek": "2.51%",
+    "uptimeMonth": "2.51%",
+    "uptimeYear": "2.51%",
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2022-10-28": 0
+      "2022-10-28": 3
     }
   }
 ]
