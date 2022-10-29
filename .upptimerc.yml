@@ -33,26 +33,40 @@ sites:
     icon: https://fedi.mint.lgbt/favicon.ico
     method: POST
     __dangerous__body_down_if_text_missing: '"machine":"athena"'
+    assignees:
+      - lunaisnotaboy
   - name: Piped
     url: https://piped.mint.lgbt
     icon: https://piped.mint.lgbt/favicon.ico
+    assignees:
+      - nixgoat
   - name: Piped Proxy
     url: https://pp.mint.lgbt
     icon: https://piped.mint.lgbt/favicon.ico
+    assignees:
+      - nixgoat
   - name: Piped API
     url: http://pa.mint.lgbt/status
     icon: https://piped.mint.lgbt/favicon.ico
     expectedStatusCodes:
       - 404
+    assignees:
+      - nixgoat
   - name: libreddit
     url: https://lr.mint.lgbt
     icon: https://lr.mint.lgbt/favicon.ico
+    assignees:
+      - nixgoat
   - name: Nitter
     url: https://nitter.mint.lgbt
     icon: https://nitter.mint.lgbt/favicon-32x32.png
+    assignees:
+      - nixgoat
   - name: Miniflux
     url: https://rss.mint.lgbt
     icon: https://rss.mint.lgbt/icon/favicon-32.png
+    assignees:
+      - nixgoat
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
