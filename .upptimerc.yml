@@ -3,21 +3,56 @@ owner: mint-lgbt # Your GitHub organization or username, where this repository l
 repo: status # The name of this repository
 
 sites:
+  # Servers
   - name: Athena
     check: "tcp-ping"
     url: 206.127.46.95
     port: 80
+    assignees:
+      - lunaisnotaboy
   - name: Ralsei
     check: "tcp-ping"
     url: ralsei.nightcore.monster
     port: 80
+    assignees:
+      - nixgoat
   - name: Amity
     check: "tcp-ping"
     url: 149.102.157.145
     port: 80
-    
-assignees:
-  - lunaisnotaboy
+    assignees:
+      - nixgoat
+      
+  # Actual services
+  - name: Femgit
+    url: https://fem.mint.lgbt/api/v1/version
+    icon: https://fem.mint.lgbt/assets/img/favicon.png
+    __dangerous__body_down_if_text_missing: '"version"'
+  - name: Fedimint
+    url: https://fedi.mint.lgbt/api/server-info
+    icon: https://fedi.mint.lgbt/favicon.ico
+    method: POST
+    __dangerous__body_down_if_text_missing: '"machine":"athena"'
+  - name: Piped
+    url: https://piped.mint.lgbt
+    icon: https://piped.mint.lgbt/favicon.ico
+  - name: Piped Proxy
+    url: https://pp.mint.lgbt
+    icon: https://piped.mint.lgbt/favicon.ico
+  - name: Piped API
+    url: http://pa.mint.lgbt/status
+    icon: https://piped.mint.lgbt/favicon.ico
+    expectedStatusCodes:
+      - 404
+  - name: libreddit
+    url: https://lr.mint.lgbt
+    icon: https://lr.mint.lgbt/favicon.ico
+  - name: Nitter
+    url: https://nitter.mint.lgbt
+    icon: https://nitter.mint.lgbt/favicon-32x32.png
+  - name: Miniflux
+    url: https://rss.mint.lgbt
+    icon: https://rss.mint.lgbt/icon/favicon-32.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -33,6 +68,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+user-agent: mint.lgbt Status Bot
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
