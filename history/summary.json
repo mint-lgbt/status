@@ -22,19 +22,19 @@
     "url": "ralsei.nightcore.monster",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ralsei",
-    "status": "down",
-    "uptime": "98.07%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "98.07%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "98.07%",
+    "status": "up",
+    "uptime": "96.91%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "96.91%",
+    "uptimeYear": "96.91%",
     "time": 252,
     "timeDay": 252,
     "timeWeek": 252,
     "timeMonth": 252,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2022-10-29": 27
+      "2022-10-29": 44
     }
   },
   {
