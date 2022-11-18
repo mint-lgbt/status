@@ -56,13 +56,13 @@ sites:
     icon: https://piped.mint.lgbt/favicon.ico
     assignees:
       - nixgoat
-  - name: Piped API
-    url: http://pa.mint.lgbt/status
-    icon: https://piped.mint.lgbt/favicon.ico
-    expectedStatusCodes:
-      - 404
-    assignees:
-      - nixgoat
+  # - name: Piped API
+  #   url: http://pa.mint.lgbt/status
+  #   icon: https://piped.mint.lgbt/favicon.ico
+  #   expectedStatusCodes:
+  #     - 404
+  #   assignees:
+  #     - nixgoat
   - name: libreddit
     url: https://lr.mint.lgbt
     icon: https://lr.mint.lgbt/favicon.ico
