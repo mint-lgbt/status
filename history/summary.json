@@ -4,19 +4,19 @@
     "url": "206.127.46.95",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "athena",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 41,
-    "timeDay": 59,
-    "timeWeek": 48,
+    "timeDay": 47,
+    "timeWeek": 46,
     "timeMonth": 43,
     "timeYear": 41,
     "dailyMinutesDown": {
-      "2022-12-04": 0
+      "2022-12-04": 8
     }
   },
   {
