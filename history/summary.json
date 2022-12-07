@@ -4,10 +4,10 @@
     "url": "206.127.46.95",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "athena",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
@@ -15,7 +15,9 @@
     "timeWeek": 44,
     "timeMonth": 43,
     "timeYear": 41,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-07": 1
+    }
   },
   {
     "name": "Ralsei",
@@ -23,13 +25,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ralsei",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "98.64%",
-    "uptimeYear": "98.57%",
+    "uptimeYear": "98.59%",
     "time": 241,
-    "timeDay": 294,
+    "timeDay": 339,
     "timeWeek": 224,
     "timeMonth": 241,
     "timeYear": 241,
@@ -94,10 +96,10 @@
     "url": "https://fedi.mint.lgbt/api/server-info",
     "icon": "https://fedi.mint.lgbt/favicon.ico",
     "slug": "fedimint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 382,
@@ -105,16 +107,18 @@
     "timeWeek": 467,
     "timeMonth": 393,
     "timeYear": 382,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-07": 1
+    }
   },
   {
     "name": "Element",
     "url": "https://element.mint.lgbt/config.json",
     "icon": "https://element.mint.lgbt/welcome/images/logo.svg",
     "slug": "element",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +127,9 @@
     "timeWeek": 388,
     "timeMonth": 299,
     "timeYear": 276,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-07": 0
+    }
   },
   {
     "name": "Matrix",
@@ -131,13 +137,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.mint.lgbt.ico",
     "slug": "matrix",
     "status": "up",
-    "uptime": "98.59%",
+    "uptime": "98.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "98.52%",
-    "uptimeYear": "98.59%",
+    "uptimeYear": "98.61%",
     "time": 722,
-    "timeDay": 546,
+    "timeDay": 605,
     "timeWeek": 710,
     "timeMonth": 699,
     "timeYear": 722,
