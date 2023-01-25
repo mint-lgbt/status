@@ -272,19 +272,19 @@
     "url": "https://nitter.mint.lgbt",
     "icon": "https://nitter.mint.lgbt/favicon-32x32.png",
     "slug": "nitter",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 462,
-    "timeDay": 470,
-    "timeWeek": 513,
-    "timeMonth": 462,
-    "timeYear": 462,
+    "time": 543,
+    "timeDay": 4304,
+    "timeWeek": 1466,
+    "timeMonth": 702,
+    "timeYear": 543,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 6
     }
   },
   {
