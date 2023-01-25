@@ -98,19 +98,19 @@
     "url": "https://fem.mint.lgbt/api/v1/version",
     "icon": "https://fem.mint.lgbt/assets/img/favicon.png",
     "slug": "femgit",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 576,
-    "timeDay": 702,
-    "timeWeek": 596,
-    "timeMonth": 549,
-    "timeYear": 576,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 642,
+    "timeDay": 3723,
+    "timeWeek": 1364,
+    "timeMonth": 742,
+    "timeYear": 642,
     "dailyMinutesDown": {
-      "2023-01-25": 3
+      "2023-01-25": 7
     }
   },
   {
@@ -118,10 +118,10 @@
     "url": "https://fedi.mint.lgbt/api/server-info",
     "icon": "https://fedi.mint.lgbt/favicon.ico",
     "slug": "fedimint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.66%",
     "time": 421,
@@ -130,6 +130,7 @@
     "timeMonth": 487,
     "timeYear": 421,
     "dailyMinutesDown": {
+      "2023-01-25": 4,
       "2023-01-13": 15,
       "2022-12-07": 415
     }
@@ -139,10 +140,10 @@
     "url": "https://element.mint.lgbt/config.json",
     "icon": "https://element.mint.lgbt/welcome/images/logo.svg",
     "slug": "element",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.67%",
     "time": 299,
@@ -151,6 +152,7 @@
     "timeMonth": 301,
     "timeYear": 299,
     "dailyMinutesDown": {
+      "2023-01-25": 4,
       "2023-01-13": 15,
       "2022-12-07": 394
     }
@@ -220,10 +222,10 @@
     "url": "https://piped.mint.lgbt",
     "icon": "https://piped.mint.lgbt/favicon.ico",
     "slug": "piped",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 622,
@@ -231,7 +233,9 @@
     "timeWeek": 2180,
     "timeMonth": 872,
     "timeYear": 622,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 2
+    }
   },
   {
     "name": "Piped Proxy",
@@ -274,10 +278,10 @@
     "url": "https://nitter.mint.lgbt",
     "icon": "https://nitter.mint.lgbt/favicon-32x32.png",
     "slug": "nitter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 543,
@@ -285,7 +289,9 @@
     "timeWeek": 1466,
     "timeMonth": 702,
     "timeYear": 543,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Miniflux",
@@ -293,18 +299,16 @@
     "icon": "https://rss.mint.lgbt/icon/favicon-32.png",
     "slug": "miniflux",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 693,
     "timeDay": 9893,
     "timeWeek": 2873,
     "timeMonth": 1071,
     "timeYear": 693,
-    "dailyMinutesDown": {
-      "2023-01-25": 15
-    }
+    "dailyMinutesDown": {}
   }
 ]
