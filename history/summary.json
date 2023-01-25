@@ -4,10 +4,10 @@
     "url": "206.127.46.95",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "athena",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.68%",
     "time": 42,
@@ -16,6 +16,7 @@
     "timeMonth": 41,
     "timeYear": 42,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2023-01-13": 15,
       "2022-12-07": 395
     }
@@ -116,9 +117,9 @@
     "url": "https://fedi.mint.lgbt/api/server-info",
     "icon": "https://fedi.mint.lgbt/favicon.ico",
     "slug": "fedimint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "98.56%",
+    "uptimeDay": "98.50%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.64%",
@@ -128,7 +129,7 @@
     "timeMonth": 489,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2023-01-25": 21,
+      "2023-01-25": 22,
       "2023-01-13": 15,
       "2022-12-07": 415
     }
@@ -138,9 +139,9 @@
     "url": "https://element.mint.lgbt/config.json",
     "icon": "https://element.mint.lgbt/welcome/images/logo.svg",
     "slug": "element",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "98.59%",
+    "uptimeDay": "98.58%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.65%",
@@ -241,19 +242,17 @@
     "icon": "https://piped.mint.lgbt/favicon.ico",
     "slug": "piped-proxy",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 466,
     "timeDay": 476,
     "timeWeek": 518,
     "timeMonth": 467,
     "timeYear": 466,
-    "dailyMinutesDown": {
-      "2023-01-25": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "libreddit",
@@ -299,18 +298,16 @@
     "icon": "https://rss.mint.lgbt/icon/favicon-32.png",
     "slug": "miniflux",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 690,
     "timeDay": 6746,
     "timeWeek": 2604,
     "timeMonth": 1052,
     "timeYear": 690,
-    "dailyMinutesDown": {
-      "2023-01-25": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
