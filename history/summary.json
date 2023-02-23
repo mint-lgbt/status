@@ -333,19 +333,19 @@
     "url": "https://rss.mint.lgbt",
     "icon": "https://rss.mint.lgbt/icon/favicon-32.png",
     "slug": "miniflux",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 643,
-    "timeDay": 512,
-    "timeWeek": 478,
-    "timeMonth": 990,
-    "timeYear": 643,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 642,
+    "timeDay": 498,
+    "timeWeek": 472,
+    "timeMonth": 976,
+    "timeYear": 642,
     "dailyMinutesDown": {
-      "2023-02-23": 0
+      "2023-02-23": 13
     }
   }
 ]
