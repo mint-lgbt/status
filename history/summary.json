@@ -29,11 +29,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ralsei",
     "status": "up",
-    "uptime": "96.22%",
+    "uptime": "96.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.76%",
     "uptimeMonth": "95.15%",
-    "uptimeYear": "96.22%",
+    "uptimeYear": "96.23%",
     "time": 236,
     "timeDay": 187,
     "timeWeek": 223,
@@ -182,11 +182,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.mint.lgbt.ico",
     "slug": "matrix",
     "status": "up",
-    "uptime": "93.98%",
+    "uptime": "93.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.30%",
     "uptimeMonth": "94.88%",
-    "uptimeYear": "93.98%",
+    "uptimeYear": "93.99%",
     "time": 709,
     "timeDay": 651,
     "timeWeek": 666,
@@ -333,9 +333,9 @@
     "url": "https://rss.mint.lgbt",
     "icon": "https://rss.mint.lgbt/icon/favicon-32.png",
     "slug": "miniflux",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -344,6 +344,8 @@
     "timeWeek": 478,
     "timeMonth": 990,
     "timeYear": 643,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-23": 0
+    }
   }
 ]
