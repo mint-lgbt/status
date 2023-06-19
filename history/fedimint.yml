@@ -1,7 +1,7 @@
 url: https://fedi.mint.lgbt/api/server-info
-status: up
-code: 200
-responseTime: 443
-lastUpdated: 2023-06-18T23:09:11.786Z
+status: down
+code: 502
+responseTime: 201
+lastUpdated: 2023-06-19T17:33:42.151Z
 startTime: Sat Oct 29 2022 15:32:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
