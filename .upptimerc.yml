@@ -28,13 +28,6 @@ sites:
     url: https://fem.mint.lgbt/api/v1/version
     icon: https://fem.mint.lgbt/assets/img/favicon.png
     __dangerous__body_down_if_text_missing: '"version"'
-  - name: Fedimint
-    url: https://fedi.mint.lgbt/api/server-info
-    icon: https://fedi.mint.lgbt/favicon.ico
-    method: POST
-    __dangerous__body_down_if_text_missing: '"machine":"athena"'
-    assignees:
-      - lunaisnotaboy
   - name: Element
     url: https://element.mint.lgbt/config.json
     icon: https://element.mint.lgbt/welcome/images/logo.svg
@@ -46,23 +39,6 @@ sites:
     __dangerous__body_down_if_text_missing: '"server"'
     assignees:
       - nixgoat
-  - name: Piped
-    url: https://piped.mint.lgbt
-    icon: https://piped.mint.lgbt/favicon.ico
-    assignees:
-      - nixgoat
-  - name: Piped Proxy
-    url: https://pp.mint.lgbt
-    icon: https://piped.mint.lgbt/favicon.ico
-    assignees:
-      - nixgoat
-  # - name: Piped API
-  #   url: http://pa.mint.lgbt/status
-  #   icon: https://piped.mint.lgbt/favicon.ico
-  #   expectedStatusCodes:
-  #     - 404
-  #   assignees:
-  #     - nixgoat
   - name: libreddit
     url: https://lr.mint.lgbt
     icon: https://lr.mint.lgbt/favicon.ico
