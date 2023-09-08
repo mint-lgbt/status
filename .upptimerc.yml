@@ -39,11 +39,6 @@ sites:
     __dangerous__body_down_if_text_missing: '"server"'
     assignees:
       - nixgoat
-  - name: libreddit
-    url: https://lr.mint.lgbt
-    icon: https://lr.mint.lgbt/favicon.ico
-    assignees:
-      - nixgoat
   - name: Nitter
     url: https://nitter.mint.lgbt
     icon: https://nitter.mint.lgbt/favicon-32x32.png
