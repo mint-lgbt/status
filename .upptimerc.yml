@@ -4,12 +4,6 @@ repo: status # The name of this repository
 
 sites:
   # Servers
-  - name: Athena
-    check: "tcp-ping"
-    url: 206.127.46.95
-    port: 80
-    assignees:
-      - lunaisnotaboy
   - name: Ralsei
     check: "tcp-ping"
     url: ralsei.nightcore.monster
@@ -28,12 +22,14 @@ sites:
     url: https://fem.mint.lgbt/api/v1/version
     icon: https://fem.mint.lgbt/assets/img/favicon.png
     __dangerous__body_down_if_text_missing: '"version"'
+    assignees:
+      - nixgoat
   - name: Element
     url: https://element.mint.lgbt/config.json
     icon: https://element.mint.lgbt/welcome/images/logo.svg
     __dangerous__body_down_if_text_missing: '"default_server_config"'
     assignees:
-      - lunaisnotaboy
+      - nixgoat
   - name: Matrix
     url: https://matrix.mint.lgbt:8448/_matrix/federation/v1/version
     __dangerous__body_down_if_text_missing: '"server"'
