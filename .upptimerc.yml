@@ -18,12 +18,12 @@ sites:
       - nixgoat
       
   # Actual services
-  - name: Femgit
-    url: https://fem.mint.lgbt/api/v1/version
-    icon: https://fem.mint.lgbt/assets/img/favicon.png
-    __dangerous__body_down_if_text_missing: '"version"'
-    assignees:
-      - nixgoat
+  # - name: Femgit
+  #   url: https://fem.mint.lgbt/api/v1/version
+  #   icon: https://fem.mint.lgbt/assets/img/favicon.png
+  #   __dangerous__body_down_if_text_missing: '"version"'
+  #   assignees:
+  #     - nixgoat
   - name: Element
     url: https://element.mint.lgbt/config.json
     icon: https://element.mint.lgbt/welcome/images/logo.svg
