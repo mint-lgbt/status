@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.15%",
+    "uptimeYear": "97.16%",
     "time": 336,
     "timeDay": 0,
     "timeWeek": 477,
@@ -67,8 +67,7 @@
       "2023-01-02": 24,
       "2022-12-25": 18,
       "2022-12-20": 22,
-      "2022-12-14": 350,
-      "2022-12-13": 1440
+      "2022-12-14": 350
     }
   },
   {
@@ -99,9 +98,9 @@
     "slug": "element",
     "status": "up",
     "uptime": "92.24%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "91.40%",
     "time": 443,
     "timeDay": 1674,
@@ -109,7 +108,6 @@
     "timeMonth": 1137,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2023-12-12": 2,
       "2023-11-06": 1131,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
@@ -165,8 +163,8 @@
     "slug": "matrix",
     "status": "up",
     "uptime": "90.81%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.96%",
     "time": 872,
@@ -175,7 +173,6 @@
     "timeMonth": 1121,
     "timeYear": 893,
     "dailyMinutesDown": {
-      "2023-12-12": 2,
       "2023-11-05": 42,
       "2023-11-04": 48,
       "2023-11-03": 1440,
@@ -262,8 +259,7 @@
       "2022-12-25": 280,
       "2022-12-24": 66,
       "2022-12-20": 22,
-      "2022-12-14": 351,
-      "2022-12-13": 1440
+      "2022-12-14": 351
     }
   },
   {
@@ -311,7 +307,7 @@
     "status": "down",
     "uptime": "94.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "74.30%",
+    "uptimeWeek": "75.04%",
     "uptimeMonth": "20.95%",
     "uptimeYear": "93.30%",
     "time": 575,
