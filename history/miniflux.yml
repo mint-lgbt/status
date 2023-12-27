@@ -1,7 +1,7 @@
 url: https://rss.mint.lgbt
-status: up
-code: 200
-responseTime: 365
-lastUpdated: 2023-12-26T23:10:37.978Z
+status: down
+code: 502
+responseTime: 701
+lastUpdated: 2023-12-27T08:25:53.218Z
 startTime: 2022-10-29T15:33:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
