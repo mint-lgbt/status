@@ -84,7 +84,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.mint.lgbt
   # baseUrl: /your-repo-name
-  logoUrl: https://mint.lgbt/assets/img/logo.png
+  logoUrl: https://fem.mint.lgbt/mint.lgbt/home-old/raw/branch/master/assets/img/android-chrome-192x192.png
   name: mint.lgbt
   introTitle: "Non-profit collective, providing providing services built for and run by LGBTQIA+ people"
   introMessage: 
