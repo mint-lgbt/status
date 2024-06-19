@@ -26,12 +26,13 @@ sites:
   # Actual services
   - name: Matrix
     url: https://matrix.mint.lgbt:8448/_matrix/federation/v1/version
-    icon: https://element.mint.lgbt/assets/img/favicon.png
+    icon: https://element.mint.lgbt/vector-icons/apple-touch-icon-72.png
     __dangerous__body_down_if_text_missing: '"server"'
     assignees:
       - nixgoat
   - name: XMPP
     url: https://xmpp.mint.lgbt
+    icon: https://xmpp.org/favicon-32x32.png
     assignees:
       - nixgoat
   - name: Femgit
@@ -42,6 +43,7 @@ sites:
       - lunaisnotaboy
   - name: Chibisafe
     url: https://chibi.mint.lgbt/api/health
+    icon: https://chibi.mint.lgbt/apple-touch-icon.png
     __dangerous__body_down_if_text_missing: '"yes"'
     assignees:
       - lunaisnotaboy
