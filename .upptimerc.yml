@@ -31,8 +31,7 @@ sites:
     assignees:
       - nixgoat
   - name: XMPP
-    url: https://xmpp.mint.lgbt/
-    __dangerous__body_down_if_text_missing: '"Prosody"'
+    url: https://xmpp.mint.lgbt
     assignees:
       - nixgoat
   - name: Femgit
