@@ -64,19 +64,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bunny",
     "status": "up",
-    "uptime": "5.39%",
-    "uptimeDay": "5.39%",
-    "uptimeWeek": "5.39%",
-    "uptimeMonth": "5.39%",
-    "uptimeYear": "5.39%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 91,
     "timeDay": 91,
     "timeWeek": 91,
     "timeMonth": 91,
     "timeYear": 91,
-    "dailyMinutesDown": {
-      "2024-06-19": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Matrix",
@@ -160,19 +158,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/xmpp.mint.lgbt.ico",
     "slug": "xmpp",
     "status": "up",
-    "uptime": "5.26%",
-    "uptimeDay": "5.26%",
-    "uptimeWeek": "5.26%",
-    "uptimeMonth": "5.26%",
-    "uptimeYear": "5.26%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 690,
     "timeDay": 690,
     "timeWeek": 690,
     "timeMonth": 690,
     "timeYear": 690,
-    "dailyMinutesDown": {
-      "2024-06-19": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Femgit",
