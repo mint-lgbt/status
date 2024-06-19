@@ -6,43 +6,75 @@ sites:
   # Servers
   - name: Ralsei
     check: "tcp-ping"
-    url: ralsei.nightcore.monster
+    url: ralsei.mint.lgbt
     port: 80
     assignees:
       - nixgoat
-  - name: Amity
+  - name: Miko
     check: "tcp-ping"
-    url: 149.102.157.145
+    url: miko.mint.lgbt
     port: 80
+    assignees:
+      - lunaisnotaboy
+  - name: Bunny
+    check: "tcp-ping"
+    url: bunny.mint.lgbt
+    port: 443
     assignees:
       - nixgoat
       
   # Actual services
-  # - name: Femgit
-  #   url: https://fem.mint.lgbt/api/v1/version
-  #   icon: https://fem.mint.lgbt/assets/img/favicon.png
-  #   __dangerous__body_down_if_text_missing: '"version"'
-  #   assignees:
-  #     - nixgoat
-  - name: Element
-    url: https://element.mint.lgbt/config.json
-    icon: https://element.mint.lgbt/welcome/images/logo.svg
-    __dangerous__body_down_if_text_missing: '"default_server_config"'
-    assignees:
-      - nixgoat
   - name: Matrix
     url: https://matrix.mint.lgbt:8448/_matrix/federation/v1/version
+    icon: https://element.mint.lgbt/assets/img/favicon.png
     __dangerous__body_down_if_text_missing: '"server"'
     assignees:
       - nixgoat
-  - name: Nitter
-    url: https://nitter.mint.lgbt
-    icon: https://nitter.mint.lgbt/favicon-32x32.png
+  - name: XMPP
+    url: https://xmpp.mint.lgbt/
+    __dangerous__body_down_if_text_missing: '"Prosody"'
     assignees:
       - nixgoat
+  - name: Femgit
+    url: https://fem.mint.lgbt/api/v1/version
+    icon: https://fem.mint.lgbt/assets/img/favicon.png
+    __dangerous__body_down_if_text_missing: '"version"'
+    assignees:
+      - lunaisnotaboy
+  - name: Chibisafe
+    url: https://chibi.mint.lgbt/api/health
+    __dangerous__body_down_if_text_missing: '"yes"'
+    assignees:
+      - lunaisnotaboy
   - name: Miniflux
     url: https://rss.mint.lgbt
     icon: https://rss.mint.lgbt/icon/favicon-32.png
+    assignees:
+      - nixgoat
+  - name: CloudTube
+    url: https://tube.mint.lgbt
+    icon: https://tube.mint.lgbt/static/images/favicon-32x32.png
+    assignees:
+      - nixgoat
+  - name: Redlib
+    url: https://redlib.mint.lgbt
+    icon: https://redlib.mint.lgbt/touch-icon-iphone.png
+    assignees:
+      - nixgoat
+  - name: 4get
+    url: https://search.mint.lgbt/ami4get
+    __dangerous__body_down_if_text_missing: '"ok"'
+    icon: https://search.mint.lgbt/favicon.ico
+    assignees:
+      - nixgoat
+  - name: Shoelace
+    url: https://shoelace.mint.lgbt # i gotta code in a healthcheck for v3 :P
+    icon: https://shoelace.mint.lgbt/static/img/shoelace.svg
+    assignees:
+      - nixgoat
+  - name: BreezeWiki
+    url: https://breeze.mint.lgbt
+    icon: https://breeze.mint.lgbt/static/breezewiki-favicon.svg
     assignees:
       - nixgoat
 
@@ -53,7 +85,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://mint.lgbt/assets/img/logo.png
   name: mint.lgbt
-  introTitle: "a more private, more mogai-friendly collection of web services"
+  introTitle: "Non-profit collective, providing providing services built for and run by LGBTQIA+ people"
   introMessage: 
   navbar:
     - title: Status
