@@ -97,12 +97,12 @@
     "url": "https://matrix.mint.lgbt:8448/_matrix/federation/v1/version",
     "icon": "https://element.mint.lgbt/vector-icons/apple-touch-icon-72.png",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "75.49%",
+    "uptimeDay": "75.47%",
     "uptimeWeek": "79.69%",
-    "uptimeMonth": "93.28%",
-    "uptimeYear": "99.44%",
+    "uptimeMonth": "93.35%",
+    "uptimeYear": "99.45%",
     "time": 10772,
     "timeDay": 13751,
     "timeWeek": 12939,
@@ -119,7 +119,7 @@
       "2024-10-15": 244,
       "2024-10-14": 229,
       "2024-10-13": 276,
-      "2024-10-12": 266
+      "2024-10-12": 235
     }
   },
   {
@@ -169,7 +169,7 @@
     "status": "up",
     "uptime": "83.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.38%",
+    "uptimeWeek": "87.74%",
     "uptimeMonth": "84.48%",
     "uptimeYear": "83.84%",
     "time": 610,
@@ -270,7 +270,7 @@
     "icon": "https://rss.mint.lgbt/icon/favicon-32.png",
     "slug": "miniflux",
     "status": "down",
-    "uptime": "84.03%",
+    "uptime": "84.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
