@@ -97,11 +97,11 @@
     "url": "https://matrix.mint.lgbt:8448/_matrix/federation/v1/version",
     "icon": "https://element.mint.lgbt/vector-icons/apple-touch-icon-72.png",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "80.43%",
+    "uptimeDay": "80.41%",
     "uptimeWeek": "79.68%",
-    "uptimeMonth": "93.27%",
+    "uptimeMonth": "93.31%",
     "uptimeYear": "99.44%",
     "time": 11015,
     "timeDay": 14662,
@@ -119,7 +119,7 @@
       "2024-10-18": 242,
       "2024-10-17": 183,
       "2024-10-16": 298,
-      "2024-10-15": 179
+      "2024-10-15": 162
     }
   },
   {
@@ -609,11 +609,11 @@
     "icon": "https://breeze.mint.lgbt/static/breezewiki-favicon.svg",
     "slug": "breeze-wiki",
     "status": "up",
-    "uptime": "98.81%",
+    "uptime": "98.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.81%",
+    "uptimeYear": "98.82%",
     "time": 953,
     "timeDay": 598,
     "timeWeek": 1009,
