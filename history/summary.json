@@ -99,18 +99,19 @@
     "url": "https://matrix.mint.lgbt:8448/_matrix/federation/v1/version",
     "icon": "https://element.mint.lgbt/vector-icons/apple-touch-icon-72.png",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "84.82%",
-    "uptimeWeek": "86.87%",
-    "uptimeMonth": "93.82%",
+    "uptimeDay": "84.80%",
+    "uptimeWeek": "86.86%",
+    "uptimeMonth": "93.89%",
     "uptimeYear": "99.49%",
-    "time": 11242,
-    "timeDay": 11667,
+    "time": 11245,
+    "timeDay": 12061,
     "timeWeek": 12081,
-    "timeMonth": 13276,
+    "timeMonth": 13264,
     "timeYear": 11690,
     "dailyMinutesDown": {
+      "2024-11-12": 0,
       "2024-11-11": 219,
       "2024-11-10": 392,
       "2024-11-09": 128,
@@ -125,7 +126,7 @@
       "2024-10-31": 170,
       "2024-10-30": 170,
       "2024-10-29": 113,
-      "2024-10-28": 131
+      "2024-10-28": 99
     }
   },
   {
@@ -134,11 +135,11 @@
     "icon": "https://xmpp.org/favicon-32x32.png",
     "slug": "xmpp",
     "status": "up",
-    "uptime": "93.37%",
+    "uptime": "93.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "93.37%",
+    "uptimeYear": "93.38%",
     "time": 1152,
     "timeDay": 1112,
     "timeWeek": 1186,
@@ -174,10 +175,10 @@
     "icon": "https://fem.mint.lgbt/assets/img/favicon.png",
     "slug": "femgit",
     "status": "up",
-    "uptime": "85.90%",
+    "uptime": "85.91%",
     "uptimeDay": "95.04%",
     "uptimeWeek": "99.29%",
-    "uptimeMonth": "84.93%",
+    "uptimeMonth": "84.98%",
     "uptimeYear": "86.58%",
     "time": 631,
     "timeDay": 236,
@@ -226,8 +227,7 @@
       "2023-11-17": 18,
       "2023-11-16": 779,
       "2023-11-15": 18,
-      "2023-11-14": 90,
-      "2023-11-13": 939
+      "2023-11-14": 90
     }
   },
   {
@@ -423,8 +423,7 @@
       "2023-11-17": 1440,
       "2023-11-16": 933,
       "2023-11-15": 1425,
-      "2023-11-14": 1440,
-      "2023-11-13": 928
+      "2023-11-14": 1440
     }
   },
   {
@@ -433,11 +432,11 @@
     "icon": "https://tube.mint.lgbt/static/images/favicon-32x32.png",
     "slug": "cloud-tube",
     "status": "down",
-    "uptime": "71.67%",
+    "uptime": "71.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.67%",
+    "uptimeYear": "71.68%",
     "time": 993,
     "timeDay": 878,
     "timeWeek": 1238,
