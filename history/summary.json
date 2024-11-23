@@ -102,7 +102,7 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "80.39%",
-    "uptimeWeek": "85.58%",
+    "uptimeWeek": "85.94%",
     "uptimeMonth": "93.64%",
     "uptimeYear": "99.47%",
     "time": 11497,
@@ -218,8 +218,7 @@
       "2023-11-30": 461,
       "2023-11-29": 369,
       "2023-11-28": 367,
-      "2023-11-27": 332,
-      "2023-11-24": 24
+      "2023-11-27": 332
     }
   },
   {
@@ -474,18 +473,18 @@
     "icon": "https://redlib.mint.lgbt/touch-icon-iphone.png",
     "slug": "redlib",
     "status": "down",
-    "uptime": "87.86%",
+    "uptime": "87.85%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "40.67%",
-    "uptimeMonth": "73.71%",
-    "uptimeYear": "87.86%",
+    "uptimeWeek": "40.30%",
+    "uptimeMonth": "73.62%",
+    "uptimeYear": "87.85%",
     "time": 1838,
     "timeDay": 1071,
     "timeWeek": 1272,
     "timeMonth": 1705,
     "timeYear": 1838,
     "dailyMinutesDown": {
-      "2024-11-23": 0,
+      "2024-11-23": 37,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1399,
