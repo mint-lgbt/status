@@ -101,17 +101,17 @@
     "slug": "matrix",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "79.51%",
-    "uptimeWeek": "84.71%",
-    "uptimeMonth": "93.94%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "79.98%",
+    "uptimeWeek": "84.78%",
+    "uptimeMonth": "93.92%",
+    "uptimeYear": "99.49%",
     "time": 11600,
-    "timeDay": 11683,
+    "timeDay": 11748,
     "timeWeek": 12565,
     "timeMonth": 13108,
     "timeYear": 11850,
     "dailyMinutesDown": {
-      "2024-11-25": 296,
+      "2024-11-25": 289,
       "2024-11-24": 133,
       "2024-11-23": 312,
       "2024-11-22": 281,
@@ -122,7 +122,7 @@
       "2024-11-17": 281,
       "2024-11-16": 318,
       "2024-11-15": 218,
-      "2024-11-14": 243
+      "2024-11-14": 258
     }
   },
   {
@@ -171,11 +171,11 @@
     "icon": "https://fem.mint.lgbt/assets/img/favicon.png",
     "slug": "femgit",
     "status": "up",
-    "uptime": "87.14%",
+    "uptime": "87.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "88.77%",
+    "uptimeYear": "88.78%",
     "time": 620,
     "timeDay": 628,
     "timeWeek": 338,
@@ -216,8 +216,7 @@
       "2023-12-01": 452,
       "2023-11-30": 461,
       "2023-11-29": 369,
-      "2023-11-28": 367,
-      "2023-11-27": 332
+      "2023-11-28": 367
     }
   },
   {
@@ -262,7 +261,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.81%",
+    "uptimeYear": "71.82%",
     "time": 768,
     "timeDay": 1222,
     "timeWeek": 1036,
@@ -399,8 +398,7 @@
       "2023-12-01": 1440,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
-      "2023-11-28": 1440,
-      "2023-11-27": 1440
+      "2023-11-28": 1440
     }
   },
   {
@@ -470,11 +468,11 @@
     "icon": "https://redlib.mint.lgbt/touch-icon-iphone.png",
     "slug": "redlib",
     "status": "up",
-    "uptime": "86.58%",
-    "uptimeDay": "51.49%",
-    "uptimeWeek": "8.91%",
+    "uptime": "86.59%",
+    "uptimeDay": "54.81%",
+    "uptimeWeek": "9.38%",
     "uptimeMonth": "65.82%",
-    "uptimeYear": "86.58%",
+    "uptimeYear": "86.59%",
     "time": 1802,
     "timeDay": 1586,
     "timeWeek": 1514,
@@ -549,11 +547,11 @@
     "icon": "https://shoelace.mint.lgbt/static/img/shoelace.svg",
     "slug": "shoelace",
     "status": "up",
-    "uptime": "86.19%",
+    "uptime": "86.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "86.19%",
+    "uptimeYear": "86.20%",
     "time": 862,
     "timeDay": 646,
     "timeWeek": 968,
