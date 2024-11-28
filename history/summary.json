@@ -100,18 +100,19 @@
     "icon": "https://element.mint.lgbt/vector-icons/apple-touch-icon-72.png",
     "slug": "matrix",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "75.85%",
-    "uptimeWeek": "80.28%",
-    "uptimeMonth": "93.98%",
-    "uptimeYear": "99.50%",
+    "uptime": "99.75%",
+    "uptimeDay": "72.81%",
+    "uptimeWeek": "79.84%",
+    "uptimeMonth": "93.88%",
+    "uptimeYear": "99.49%",
     "time": 11583,
     "timeDay": 10914,
     "timeWeek": 12667,
     "timeMonth": 12983,
     "timeYear": 11869,
     "dailyMinutesDown": {
-      "2024-11-27": 348,
+      "2024-11-28": 38,
+      "2024-11-27": 354,
       "2024-11-26": 329,
       "2024-11-25": 289,
       "2024-11-24": 133,
@@ -171,7 +172,7 @@
     "icon": "https://fem.mint.lgbt/assets/img/favicon.png",
     "slug": "femgit",
     "status": "up",
-    "uptime": "87.30%",
+    "uptime": "87.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
@@ -214,8 +215,7 @@
       "2023-12-03": 473,
       "2023-12-02": 485,
       "2023-12-01": 452,
-      "2023-11-30": 461,
-      "2023-11-29": 369
+      "2023-11-30": 461
     }
   },
   {
@@ -395,8 +395,7 @@
       "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
-      "2023-11-30": 1440,
-      "2023-11-29": 1440
+      "2023-11-30": 1440
     }
   },
   {
@@ -466,13 +465,13 @@
     "icon": "https://redlib.mint.lgbt/touch-icon-iphone.png",
     "slug": "redlib",
     "status": "up",
-    "uptime": "86.52%",
-    "uptimeDay": "71.46%",
-    "uptimeWeek": "31.87%",
+    "uptime": "86.53%",
+    "uptimeDay": "71.80%",
+    "uptimeWeek": "32.31%",
     "uptimeMonth": "64.62%",
-    "uptimeYear": "86.52%",
+    "uptimeYear": "86.53%",
     "time": 1786,
-    "timeDay": 1761,
+    "timeDay": 1756,
     "timeWeek": 1632,
     "timeMonth": 1651,
     "timeYear": 1786,
