@@ -206,8 +206,7 @@
       "2024-07-13": 1049,
       "2023-12-07": 614,
       "2023-12-06": 955,
-      "2023-12-05": 950,
-      "2023-12-04": 560
+      "2023-12-05": 950
     }
   },
   {
@@ -382,8 +381,7 @@
       "2023-12-25": 93,
       "2023-12-07": 1103,
       "2023-12-06": 1440,
-      "2023-12-05": 1440,
-      "2023-12-04": 1440
+      "2023-12-05": 1440
     }
   },
   {
@@ -392,11 +390,11 @@
     "icon": "https://tube.mint.lgbt/static/images/favicon-32x32.png",
     "slug": "cloud-tube",
     "status": "down",
-    "uptime": "75.25%",
+    "uptime": "75.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.25%",
+    "uptimeYear": "75.26%",
     "time": 1000,
     "timeDay": 0,
     "timeWeek": 951,
@@ -454,9 +452,9 @@
     "slug": "redlib",
     "status": "up",
     "uptime": "86.26%",
-    "uptimeDay": "91.26%",
+    "uptimeDay": "94.07%",
     "uptimeWeek": "78.77%",
-    "uptimeMonth": "71.26%",
+    "uptimeMonth": "71.36%",
     "uptimeYear": "86.26%",
     "time": 1746,
     "timeDay": 1786,
