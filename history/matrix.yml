@@ -1,7 +1,7 @@
 url: https://matrix.mint.lgbt:8448/_matrix/federation/v1/version
-status: up
-code: 200
-responseTime: 17327
-lastUpdated: 2024-12-08T05:34:17.545Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-12-08T06:56:02.772Z
 startTime: 2022-10-31T00:50:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
