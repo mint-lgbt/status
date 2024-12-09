@@ -102,17 +102,17 @@
     "slug": "matrix",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "63.17%",
-    "uptimeWeek": "78.74%",
-    "uptimeMonth": "92.44%",
+    "uptimeDay": "63.67%",
+    "uptimeWeek": "78.81%",
+    "uptimeMonth": "92.41%",
     "uptimeYear": "99.37%",
     "time": 11535,
-    "timeDay": 12527,
+    "timeDay": 12854,
     "timeWeek": 13373,
-    "timeMonth": 12701,
+    "timeMonth": 12717,
     "timeYear": 11960,
     "dailyMinutesDown": {
-      "2024-12-09": 467,
+      "2024-12-09": 460,
       "2024-12-08": 224,
       "2024-12-07": 236,
       "2024-12-06": 238,
@@ -122,7 +122,7 @@
       "2024-12-02": 218,
       "2024-12-01": 296,
       "2024-11-30": 402,
-      "2024-11-29": 287
+      "2024-11-29": 306
     }
   },
   {
@@ -449,19 +449,19 @@
     "url": "https://redlib.mint.lgbt",
     "icon": "https://redlib.mint.lgbt/touch-icon-iphone.png",
     "slug": "redlib",
-    "status": "up",
-    "uptime": "85.41%",
-    "uptimeDay": "12.84%",
-    "uptimeWeek": "38.25%",
+    "status": "down",
+    "uptime": "85.97%",
+    "uptimeDay": "12.99%",
+    "uptimeWeek": "38.37%",
     "uptimeMonth": "59.43%",
-    "uptimeYear": "85.41%",
-    "time": 1737,
-    "timeDay": 1630,
-    "timeWeek": 1711,
-    "timeMonth": 1639,
-    "timeYear": 1737,
+    "uptimeYear": "85.97%",
+    "time": 1735,
+    "timeDay": 1590,
+    "timeWeek": 1699,
+    "timeMonth": 1637,
+    "timeYear": 1735,
     "dailyMinutesDown": {
-      "2024-12-09": 1065,
+      "2024-12-09": 1066,
       "2024-12-08": 1321,
       "2024-12-07": 1440,
       "2024-12-06": 730,
@@ -497,8 +497,7 @@
       "2024-09-21": 1248,
       "2024-09-20": 1440,
       "2024-09-19": 1430,
-      "2024-09-18": 1333,
-      "2024-09-17": 1319
+      "2024-09-18": 1265
     }
   },
   {
