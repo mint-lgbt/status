@@ -139,7 +139,7 @@
     "timeMonth": 0,
     "timeYear": 12759,
     "dailyMinutesDown": {
-      "2025-05-03": 923,
+      "2025-05-03": 934,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
@@ -607,7 +607,7 @@
     "uptime": "94.89%",
     "uptimeDay": "9.21%",
     "uptimeWeek": "31.72%",
-    "uptimeMonth": "46.61%",
+    "uptimeMonth": "46.58%",
     "uptimeYear": "94.89%",
     "time": 3102,
     "timeDay": 5946,
@@ -615,7 +615,7 @@
     "timeMonth": 4557,
     "timeYear": 3102,
     "dailyMinutesDown": {
-      "2025-05-03": 924,
+      "2025-05-03": 935,
       "2025-05-02": 1142,
       "2025-05-01": 296,
       "2025-04-29": 1127,
@@ -701,7 +701,7 @@
     "status": "up",
     "uptime": "60.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "23.92%",
+    "uptimeWeek": "24.02%",
     "uptimeMonth": "13.19%",
     "uptimeYear": "60.75%",
     "time": 896,
@@ -856,19 +856,19 @@
     "url": "https://breeze.mint.lgbt",
     "icon": "https://breeze.mint.lgbt/static/breezewiki-favicon.svg",
     "slug": "breeze-wiki",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "28.04%",
-    "uptimeWeek": "54.32%",
-    "uptimeMonth": "88.54%",
-    "uptimeYear": "98.90%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "28.22%",
+    "uptimeWeek": "54.31%",
+    "uptimeMonth": "88.87%",
+    "uptimeYear": "98.94%",
     "time": 869,
-    "timeDay": 804,
-    "timeWeek": 814,
+    "timeDay": 794,
+    "timeWeek": 813,
     "timeMonth": 833,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2025-05-03": 691,
+      "2025-05-03": 692,
       "2025-05-02": 1024,
       "2025-05-01": 723,
       "2025-04-30": 612,
@@ -876,7 +876,7 @@
       "2025-04-28": 455,
       "2025-04-27": 436,
       "2025-04-26": 286,
-      "2025-04-25": 276
+      "2025-04-25": 130
     }
   }
 ]
