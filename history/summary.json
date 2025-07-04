@@ -127,9 +127,9 @@
     "slug": "matrix",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "51.51%",
-    "uptimeWeek": "54.29%",
-    "uptimeMonth": "89.31%",
+    "uptimeDay": "55.23%",
+    "uptimeWeek": "54.36%",
+    "uptimeMonth": "89.27%",
     "uptimeYear": "99.11%",
     "time": 12975,
     "timeDay": 15338,
@@ -137,14 +137,14 @@
     "timeMonth": 12194,
     "timeYear": 13005,
     "dailyMinutesDown": {
-      "2025-07-03": 695,
+      "2025-07-03": 687,
       "2025-07-02": 426,
       "2025-07-01": 676,
       "2025-06-30": 887,
       "2025-06-29": 645,
       "2025-06-28": 642,
       "2025-06-27": 641,
-      "2025-06-26": 76
+      "2025-06-26": 102
     }
   },
   {
@@ -328,18 +328,19 @@
     "icon": "https://chibi.mint.lgbt/apple-touch-icon.png",
     "slug": "chibisafe",
     "status": "down",
-    "uptime": "95.32%",
+    "uptime": "95.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.01%",
-    "uptimeYear": "95.13%",
+    "uptimeMonth": "59.90%",
+    "uptimeYear": "95.12%",
     "time": 408,
     "timeDay": 331,
     "timeWeek": 246,
     "timeMonth": 1058,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2025-07-03": 1437,
+      "2025-07-04": 43,
+      "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
@@ -395,7 +396,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.71%",
+    "uptimeYear": "91.72%",
     "time": 1056,
     "timeDay": 1252,
     "timeWeek": 1174,
@@ -433,8 +434,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 341,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440
+      "2024-07-05": 1440
     }
   },
   {
@@ -447,7 +447,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.54%",
     "uptimeMonth": "81.32%",
-    "uptimeYear": "88.41%",
+    "uptimeYear": "88.42%",
     "time": 1063,
     "timeDay": 1409,
     "timeWeek": 1107,
@@ -499,8 +499,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440
+      "2024-07-05": 1440
     }
   },
   {
@@ -509,7 +508,7 @@
     "icon": "https://redlib.mint.lgbt/touch-icon-iphone.png",
     "slug": "redlib",
     "status": "up",
-    "uptime": "93.56%",
+    "uptime": "93.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "80.93%",
     "uptimeMonth": "68.26%",
@@ -637,14 +636,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "54.24%",
+    "uptimeYear": "54.23%",
     "time": 912,
     "timeDay": 1028,
     "timeWeek": 858,
     "timeMonth": 884,
     "timeYear": 920,
     "dailyMinutesDown": {
-      "2025-07-03": 1437,
+      "2025-07-04": 43,
+      "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
