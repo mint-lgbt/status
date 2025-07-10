@@ -125,8 +125,8 @@
     "slug": "matrix",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "52.17%",
-    "uptimeWeek": "62.20%",
+    "uptimeDay": "55.98%",
+    "uptimeWeek": "62.67%",
     "uptimeMonth": "90.34%",
     "uptimeYear": "99.19%",
     "time": 13046,
@@ -326,7 +326,7 @@
     "status": "up",
     "uptime": "95.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "68.34%",
+    "uptimeWeek": "68.97%",
     "uptimeMonth": "56.05%",
     "uptimeYear": "94.80%",
     "time": 408,
@@ -393,7 +393,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.14%",
+    "uptimeYear": "93.15%",
     "time": 1062,
     "timeDay": 1035,
     "timeWeek": 1169,
@@ -425,8 +425,7 @@
       "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
-      "2024-07-11": 1440,
-      "2024-07-10": 1440
+      "2024-07-11": 1440
     }
   },
   {
@@ -439,7 +438,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.32%",
-    "uptimeYear": "90.05%",
+    "uptimeYear": "90.07%",
     "time": 1063,
     "timeDay": 1109,
     "timeWeek": 1122,
@@ -485,8 +484,7 @@
       "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
-      "2024-07-11": 1440,
-      "2024-07-10": 1440
+      "2024-07-11": 1440
     }
   },
   {
@@ -495,18 +493,19 @@
     "icon": "https://redlib.mint.lgbt/touch-icon-iphone.png",
     "slug": "redlib",
     "status": "down",
-    "uptime": "92.76%",
-    "uptimeDay": "50.86%",
-    "uptimeWeek": "41.06%",
-    "uptimeMonth": "61.48%",
-    "uptimeYear": "92.35%",
+    "uptime": "92.75%",
+    "uptimeDay": "46.42%",
+    "uptimeWeek": "40.43%",
+    "uptimeMonth": "61.34%",
+    "uptimeYear": "92.34%",
     "time": 2948,
     "timeDay": 1158,
     "timeWeek": 2594,
     "timeMonth": 1904,
     "timeYear": 2969,
     "dailyMinutesDown": {
-      "2025-07-09": 708,
+      "2025-07-10": 44,
+      "2025-07-09": 728,
       "2025-07-08": 1202,
       "2025-07-07": 1272,
       "2025-07-06": 1202,
@@ -622,11 +621,11 @@
     "icon": "https://shoelace.mint.lgbt/static/img/shoelace.svg",
     "slug": "shoelace",
     "status": "up",
-    "uptime": "55.03%",
+    "uptime": "55.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "69.77%",
-    "uptimeMonth": "17.43%",
-    "uptimeYear": "54.53%",
+    "uptimeWeek": "70.40%",
+    "uptimeMonth": "17.58%",
+    "uptimeYear": "54.54%",
     "time": 911,
     "timeDay": 684,
     "timeWeek": 866,
@@ -811,8 +810,7 @@
       "2024-07-27": 36,
       "2024-07-13": 1301,
       "2024-07-12": 1440,
-      "2024-07-11": 1440,
-      "2024-07-10": 1440
+      "2024-07-11": 1440
     }
   },
   {
