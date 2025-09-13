@@ -1,7 +1,7 @@
 url: https://chibi.mint.lgbt/api/health
-status: down
-code: 502
-responseTime: 421
-lastUpdated: 2025-09-12T23:11:34.653Z
+status: up
+code: 200
+responseTime: 268
+lastUpdated: 2025-09-13T22:28:33.288Z
 startTime: 2024-06-19T18:10:39.984Z
 generator: Upptime <https://github.com/upptime/upptime>
