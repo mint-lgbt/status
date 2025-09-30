@@ -131,9 +131,9 @@
     "slug": "matrix",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "84.02%",
-    "uptimeWeek": "77.33%",
-    "uptimeMonth": "92.30%",
+    "uptimeDay": "84.47%",
+    "uptimeWeek": "77.39%",
+    "uptimeMonth": "92.27%",
     "uptimeYear": "99.36%",
     "time": 13058,
     "timeDay": 13615,
@@ -141,7 +141,7 @@
     "timeMonth": 11869,
     "timeYear": 13098,
     "dailyMinutesDown": {
-      "2025-09-29": 230,
+      "2025-09-29": 224,
       "2025-09-28": 406,
       "2025-09-27": 288,
       "2025-09-26": 248,
@@ -150,7 +150,7 @@
       "2025-09-23": 264,
       "2025-09-22": 401,
       "2025-09-21": 436,
-      "2025-09-20": 252
+      "2025-09-20": 271
     }
   },
   {
@@ -495,17 +495,18 @@
     "icon": "https://redlib.mint.lgbt/touch-icon-iphone.png",
     "slug": "redlib",
     "status": "down",
-    "uptime": "76.99%",
+    "uptime": "76.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.54%",
+    "uptimeYear": "70.53%",
     "time": 2909,
     "timeDay": 0,
     "timeWeek": 1152,
     "timeMonth": 1182,
     "timeYear": 2982,
     "dailyMinutesDown": {
+      "2025-09-30": 39,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -726,6 +727,7 @@
     "timeMonth": 1001,
     "timeYear": 981,
     "dailyMinutesDown": {
+      "2025-09-30": 39,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
