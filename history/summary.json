@@ -136,11 +136,11 @@
     "url": "https://matrix.mint.lgbt:8448/_matrix/federation/v1/version",
     "icon": "https://element.mint.lgbt/vector-icons/apple-touch-icon-72.png",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "96.81%",
-    "uptimeDay": "72.53%",
-    "uptimeWeek": "68.80%",
-    "uptimeMonth": "20.36%",
+    "uptimeDay": "73.20%",
+    "uptimeWeek": "68.79%",
+    "uptimeMonth": "20.38%",
     "uptimeYear": "90.25%",
     "time": 12997,
     "timeDay": 13239,
@@ -191,8 +191,7 @@
       "2025-10-08": 1440,
       "2025-10-07": 1310,
       "2025-10-06": 689,
-      "2025-10-05": 212,
-      "2025-10-04": 17
+      "2025-10-05": 212
     }
   },
   {
@@ -401,7 +400,7 @@
     "uptime": "89.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.62%",
+    "uptimeMonth": "63.60%",
     "uptimeYear": "86.55%",
     "time": 413,
     "timeDay": 281,
@@ -409,7 +408,7 @@
     "timeMonth": 325,
     "timeYear": 466,
     "dailyMinutesDown": {
-      "2025-11-17": 1162,
+      "2025-11-17": 1172,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -570,7 +569,7 @@
     "timeMonth": 1042,
     "timeYear": 2966,
     "dailyMinutesDown": {
-      "2025-11-17": 1162,
+      "2025-11-17": 1172,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -846,7 +845,7 @@
     "timeMonth": 1098,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2025-11-17": 1162,
+      "2025-11-17": 1172,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
