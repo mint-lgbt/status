@@ -1,7 +1,7 @@
 url: https://fem.mint.lgbt/api/v1/version
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-23T23:14:23.284Z
+code: 502
+responseTime: 368
+lastUpdated: 2025-11-24T23:14:44.400Z
 startTime: 2024-06-19T18:10:39.409Z
 generator: Upptime <https://github.com/upptime/upptime>
