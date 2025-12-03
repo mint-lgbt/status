@@ -140,17 +140,17 @@
     "url": "https://matrix.mint.lgbt:8448/_matrix/federation/v1/version",
     "icon": "https://element.mint.lgbt/vector-icons/apple-touch-icon-72.png",
     "slug": "matrix",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "51.19%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "52.49%",
     "uptimeWeek": "64.46%",
-    "uptimeMonth": "84.92%",
-    "uptimeYear": "98.74%",
+    "uptimeMonth": "84.97%",
+    "uptimeYear": "98.75%",
     "time": 12897,
     "timeDay": 12810,
     "timeWeek": 11865,
     "timeMonth": 12081,
-    "timeYear": 12911,
+    "timeYear": 12912,
     "dailyMinutesDown": {
       "2025-12-03": 208,
       "2025-12-02": 618,
@@ -163,7 +163,7 @@
       "2025-11-25": 321,
       "2025-11-24": 1401,
       "2025-11-23": 1064,
-      "2025-11-22": 214
+      "2025-11-22": 195
     }
   },
   {
@@ -377,7 +377,7 @@
     "uptime": "87.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "21.51%",
+    "uptimeMonth": "21.47%",
     "uptimeYear": "83.03%",
     "time": 417,
     "timeDay": 384,
@@ -385,7 +385,7 @@
     "timeMonth": 367,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2025-12-03": 334,
+      "2025-12-03": 356,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -499,7 +499,7 @@
     "icon": "https://tube.mint.lgbt/static/images/favicon-32x32.png",
     "slug": "cloud-tube",
     "status": "up",
-    "uptime": "89.35%",
+    "uptime": "89.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.40%",
     "uptimeMonth": "92.53%",
@@ -564,7 +564,7 @@
     "timeMonth": 1191,
     "timeYear": 3089,
     "dailyMinutesDown": {
-      "2025-12-03": 335,
+      "2025-12-03": 356,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -860,7 +860,7 @@
     "timeMonth": 1106,
     "timeYear": 1001,
     "dailyMinutesDown": {
-      "2025-12-03": 335,
+      "2025-12-03": 356,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
