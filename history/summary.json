@@ -144,19 +144,19 @@
     "url": "https://matrix.mint.lgbt:8448/_matrix/federation/v1/version",
     "icon": "https://element.mint.lgbt/vector-icons/apple-touch-icon-72.png",
     "slug": "matrix",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "65.29%",
-    "uptimeWeek": "62.04%",
-    "uptimeMonth": "88.85%",
-    "uptimeYear": "99.07%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "65.32%",
+    "uptimeWeek": "62.16%",
+    "uptimeMonth": "89.96%",
+    "uptimeYear": "99.16%",
     "time": 12629,
     "timeDay": 10295,
     "timeWeek": 13652,
-    "timeMonth": 12632,
+    "timeMonth": 12595,
     "timeYear": 12539,
     "dailyMinutesDown": {
-      "2026-01-06": 483,
+      "2026-01-06": 484,
       "2026-01-05": 519,
       "2026-01-04": 729,
       "2026-01-03": 446,
@@ -164,7 +164,7 @@
       "2026-01-01": 384,
       "2025-12-31": 633,
       "2025-12-30": 479,
-      "2025-12-29": 615
+      "2025-12-29": 129
     }
   },
   {
@@ -400,7 +400,7 @@
     "uptime": "84.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "39.66%",
+    "uptimeMonth": "39.63%",
     "uptimeYear": "77.71%",
     "time": 436,
     "timeDay": 308,
@@ -408,7 +408,7 @@
     "timeMonth": 521,
     "timeYear": 495,
     "dailyMinutesDown": {
-      "2026-01-06": 1363,
+      "2026-01-06": 1376,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
@@ -550,7 +550,7 @@
     "time": 1183,
     "timeDay": 1249,
     "timeWeek": 2441,
-    "timeMonth": 1708,
+    "timeMonth": 1720,
     "timeYear": 1264,
     "dailyMinutesDown": {
       "2026-01-06": 91,
@@ -628,7 +628,7 @@
     "timeMonth": 1230,
     "timeYear": 3313,
     "dailyMinutesDown": {
-      "2026-01-06": 1363,
+      "2026-01-06": 1376,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
@@ -870,7 +870,7 @@
     "time": 1160,
     "timeDay": 1017,
     "timeWeek": 1167,
-    "timeMonth": 1543,
+    "timeMonth": 1547,
     "timeYear": 1236,
     "dailyMinutesDown": {
       "2026-01-06": 129,
@@ -969,7 +969,7 @@
     "icon": "https://shoelace.mint.lgbt/static/img/shoelace.svg",
     "slug": "shoelace",
     "status": "down",
-    "uptime": "39.65%",
+    "uptime": "39.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -980,7 +980,7 @@
     "timeMonth": 995,
     "timeYear": 1018,
     "dailyMinutesDown": {
-      "2026-01-06": 1363,
+      "2026-01-06": 1376,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
@@ -1317,7 +1317,7 @@
     "time": 920,
     "timeDay": 1790,
     "timeWeek": 1320,
-    "timeMonth": 1126,
+    "timeMonth": 1127,
     "timeYear": 922,
     "dailyMinutesDown": {
       "2026-01-06": 81,
