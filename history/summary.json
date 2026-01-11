@@ -145,19 +145,19 @@
     "url": "https://matrix.mint.lgbt:8448/_matrix/federation/v1/version",
     "icon": "https://element.mint.lgbt/vector-icons/apple-touch-icon-72.png",
     "slug": "matrix",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "72.78%",
-    "uptimeWeek": "64.60%",
-    "uptimeMonth": "89.79%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "73.93%",
+    "uptimeWeek": "64.73%",
+    "uptimeMonth": "89.84%",
     "uptimeYear": "99.15%",
     "time": 12596,
-    "timeDay": 13192,
-    "timeWeek": 11996,
+    "timeDay": 13406,
+    "timeWeek": 11908,
     "timeMonth": 12652,
     "timeYear": 12525,
     "dailyMinutesDown": {
-      "2026-01-11": 104,
+      "2026-01-11": 105,
       "2026-01-10": 416,
       "2026-01-09": 585,
       "2026-01-08": 398,
@@ -166,7 +166,7 @@
       "2026-01-05": 519,
       "2026-01-04": 729,
       "2026-01-03": 446,
-      "2026-01-02": 32
+      "2026-01-02": 7
     }
   },
   {
@@ -405,7 +405,7 @@
     "uptime": "84.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "25.29%",
+    "uptimeMonth": "25.23%",
     "uptimeYear": "76.50%",
     "time": 435,
     "timeDay": 196,
@@ -413,7 +413,7 @@
     "timeMonth": 539,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2026-01-11": 514,
+      "2026-01-11": 542,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -642,7 +642,7 @@
     "timeMonth": 1369,
     "timeYear": 3315,
     "dailyMinutesDown": {
-      "2026-01-11": 514,
+      "2026-01-11": 543,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -880,18 +880,19 @@
     "url": "https://search.mint.lgbt/ami4get",
     "icon": "https://search.mint.lgbt/favicon.ico",
     "slug": "4get",
-    "status": "up",
-    "uptime": "96.30%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "94.24%",
+    "status": "down",
+    "uptime": "96.32%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "94.23%",
     "uptimeMonth": "89.02%",
-    "uptimeYear": "94.22%",
-    "time": 1193,
+    "uptimeYear": "94.24%",
+    "time": 1194,
     "timeDay": 1895,
     "timeWeek": 1497,
     "timeMonth": 1516,
     "timeYear": 1261,
     "dailyMinutesDown": {
+      "2026-01-11": 1,
       "2026-01-10": 34,
       "2026-01-09": 90,
       "2026-01-08": 139,
@@ -969,8 +970,7 @@
       "2025-04-05": 311,
       "2025-03-05": 270,
       "2025-02-26": 693,
-      "2025-02-25": 324,
-      "2025-02-24": 134
+      "2025-02-25": 324
     }
   },
   {
@@ -990,7 +990,7 @@
     "timeMonth": 1204,
     "timeYear": 1038,
     "dailyMinutesDown": {
-      "2026-01-11": 514,
+      "2026-01-11": 543,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
