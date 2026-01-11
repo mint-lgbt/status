@@ -145,12 +145,12 @@
     "url": "https://matrix.mint.lgbt:8448/_matrix/federation/v1/version",
     "icon": "https://element.mint.lgbt/vector-icons/apple-touch-icon-72.png",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "72.07%",
-    "uptimeWeek": "64.73%",
-    "uptimeMonth": "90.02%",
-    "uptimeYear": "99.17%",
+    "uptimeDay": "72.04%",
+    "uptimeWeek": "64.91%",
+    "uptimeMonth": "90.14%",
+    "uptimeYear": "99.18%",
     "time": 12591,
     "timeDay": 13540,
     "timeWeek": 11755,
@@ -165,7 +165,7 @@
       "2026-01-06": 500,
       "2026-01-05": 519,
       "2026-01-04": 729,
-      "2026-01-03": 324
+      "2026-01-03": 275
     }
   },
   {
@@ -275,7 +275,7 @@
     "icon": "https://fem.mint.lgbt/assets/img/favicon.png",
     "slug": "femgit",
     "status": "up",
-    "uptime": "83.72%",
+    "uptime": "83.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.11%",
     "uptimeMonth": "82.04%",
@@ -404,7 +404,7 @@
     "uptime": "84.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "25.04%",
+    "uptimeMonth": "24.97%",
     "uptimeYear": "76.48%",
     "time": 435,
     "timeDay": 196,
@@ -412,7 +412,7 @@
     "timeMonth": 539,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2026-01-11": 623,
+      "2026-01-11": 654,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -641,7 +641,7 @@
     "timeMonth": 1369,
     "timeYear": 3315,
     "dailyMinutesDown": {
-      "2026-01-11": 623,
+      "2026-01-11": 655,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -989,7 +989,7 @@
     "timeMonth": 1204,
     "timeYear": 1038,
     "dailyMinutesDown": {
-      "2026-01-11": 623,
+      "2026-01-11": 655,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
