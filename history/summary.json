@@ -147,19 +147,19 @@
     "url": "https://matrix.mint.lgbt:8448/_matrix/federation/v1/version",
     "icon": "https://element.mint.lgbt/vector-icons/apple-touch-icon-72.png",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "64.22%",
-    "uptimeWeek": "10.44%",
-    "uptimeMonth": "66.82%",
-    "uptimeYear": "97.23%",
+    "uptimeDay": "64.42%",
+    "uptimeWeek": "10.53%",
+    "uptimeMonth": "67.01%",
+    "uptimeYear": "97.25%",
     "time": 12536,
     "timeDay": 11511,
     "timeWeek": 8977,
     "timeMonth": 12226,
     "timeYear": 12460,
     "dailyMinutesDown": {
-      "2026-01-24": 110,
+      "2026-01-24": 112,
       "2026-01-23": 736,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -174,7 +174,7 @@
       "2026-01-12": 553,
       "2026-01-11": 473,
       "2026-01-10": 416,
-      "2026-01-09": 545
+      "2026-01-09": 460
     }
   },
   {
@@ -291,7 +291,7 @@
     "uptime": "82.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.82%",
+    "uptimeMonth": "62.79%",
     "uptimeYear": "77.33%",
     "time": 539,
     "timeDay": 0,
@@ -299,7 +299,7 @@
     "timeMonth": 267,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2026-01-24": 458,
+      "2026-01-24": 469,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -437,7 +437,7 @@
     "timeMonth": 306,
     "timeYear": 497,
     "dailyMinutesDown": {
-      "2026-01-24": 458,
+      "2026-01-24": 469,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -686,7 +686,7 @@
     "timeMonth": 1533,
     "timeYear": 3324,
     "dailyMinutesDown": {
-      "2026-01-24": 458,
+      "2026-01-24": 469,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -1011,7 +1011,7 @@
     "icon": "https://shoelace.mint.lgbt/static/img/shoelace.svg",
     "slug": "shoelace",
     "status": "down",
-    "uptime": "38.47%",
+    "uptime": "38.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1022,7 +1022,7 @@
     "timeMonth": 1526,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2026-01-24": 458,
+      "2026-01-24": 469,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
