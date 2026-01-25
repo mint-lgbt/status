@@ -73,7 +73,7 @@
     "slug": "miko",
     "status": "up",
     "uptime": "98.53%",
-    "uptimeDay": "15.88%",
+    "uptimeDay": "17.09%",
     "uptimeWeek": "86.45%",
     "uptimeMonth": "94.74%",
     "uptimeYear": "98.43%",
@@ -149,19 +149,19 @@
     "url": "https://matrix.mint.lgbt:8448/_matrix/federation/v1/version",
     "icon": "https://element.mint.lgbt/vector-icons/apple-touch-icon-72.png",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "75.22%",
-    "uptimeWeek": "23.60%",
-    "uptimeMonth": "67.21%",
+    "uptimeDay": "75.09%",
+    "uptimeWeek": "23.76%",
+    "uptimeMonth": "67.24%",
     "uptimeYear": "97.27%",
-    "time": 12500,
+    "time": 12502,
     "timeDay": 11734,
     "timeWeek": 10434,
     "timeMonth": 12238,
     "timeYear": 12456,
     "dailyMinutesDown": {
-      "2026-01-25": 213,
+      "2026-01-25": 215,
       "2026-01-24": 255,
       "2026-01-23": 736,
       "2026-01-22": 1440,
@@ -177,7 +177,7 @@
       "2026-01-12": 553,
       "2026-01-11": 473,
       "2026-01-10": 416,
-      "2026-01-09": 19
+      "2026-01-09": 3
     }
   },
   {
@@ -294,7 +294,7 @@
     "uptime": "82.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.13%",
+    "uptimeMonth": "60.09%",
     "uptimeYear": "77.01%",
     "time": 539,
     "timeDay": 0,
@@ -302,7 +302,7 @@
     "timeMonth": 266,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2026-01-25": 701,
+      "2026-01-25": 719,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -441,7 +441,7 @@
     "timeMonth": 306,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2026-01-25": 701,
+      "2026-01-25": 719,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -691,7 +691,7 @@
     "timeMonth": 1520,
     "timeYear": 3323,
     "dailyMinutesDown": {
-      "2026-01-25": 702,
+      "2026-01-25": 719,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -1028,7 +1028,7 @@
     "timeMonth": 1523,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2026-01-25": 702,
+      "2026-01-25": 719,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
