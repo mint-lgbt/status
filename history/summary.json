@@ -149,19 +149,19 @@
     "url": "https://matrix.mint.lgbt:8448/_matrix/federation/v1/version",
     "icon": "https://element.mint.lgbt/vector-icons/apple-touch-icon-72.png",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "55.85%",
-    "uptimeWeek": "31.56%",
-    "uptimeMonth": "66.93%",
-    "uptimeYear": "97.24%",
+    "uptimeDay": "56.26%",
+    "uptimeWeek": "31.70%",
+    "uptimeMonth": "67.00%",
+    "uptimeYear": "97.25%",
     "time": 12546,
-    "timeDay": 12725,
+    "timeDay": 13188,
     "timeWeek": 11376,
     "timeMonth": 12315,
     "timeYear": 12460,
     "dailyMinutesDown": {
-      "2026-01-26": 253,
+      "2026-01-26": 255,
       "2026-01-25": 589,
       "2026-01-24": 255,
       "2026-01-23": 736,
@@ -176,7 +176,7 @@
       "2026-01-14": 583,
       "2026-01-13": 354,
       "2026-01-12": 553,
-      "2026-01-11": 402
+      "2026-01-11": 369
     }
   },
   {
@@ -293,7 +293,7 @@
     "uptime": "81.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "56.87%",
+    "uptimeMonth": "56.83%",
     "uptimeYear": "76.74%",
     "time": 539,
     "timeDay": 0,
@@ -301,7 +301,7 @@
     "timeMonth": 264,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2026-01-26": 692,
+      "2026-01-26": 707,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
@@ -441,7 +441,7 @@
     "timeMonth": 301,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2026-01-26": 692,
+      "2026-01-26": 707,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
@@ -692,7 +692,7 @@
     "timeMonth": 1518,
     "timeYear": 3323,
     "dailyMinutesDown": {
-      "2026-01-26": 692,
+      "2026-01-26": 707,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
@@ -1030,7 +1030,7 @@
     "timeMonth": 1551,
     "timeYear": 1074,
     "dailyMinutesDown": {
-      "2026-01-26": 692,
+      "2026-01-26": 707,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
