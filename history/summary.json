@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.00%",
     "time": 155,
-    "timeDay": 139,
+    "timeDay": 141,
     "timeWeek": 135,
     "timeMonth": 133,
     "timeYear": 164,
@@ -46,8 +46,7 @@
       "2025-06-28": 109,
       "2025-06-21": 16,
       "2025-06-14": 1391,
-      "2025-06-13": 1336,
-      "2025-05-17": 217
+      "2025-06-13": 1336
     }
   },
   {
@@ -60,9 +59,9 @@
     "uptimeDay": "93.67%",
     "uptimeWeek": "99.10%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "90.85%",
+    "uptimeYear": "90.87%",
     "time": 41,
-    "timeDay": 31,
+    "timeDay": 37,
     "timeWeek": 31,
     "timeMonth": 33,
     "timeYear": 42,
@@ -131,8 +130,7 @@
       "2025-07-14": 108,
       "2025-07-13": 1063,
       "2025-07-10": 21,
-      "2025-06-21": 51,
-      "2025-05-17": 231
+      "2025-06-21": 51
     }
   },
   {
@@ -147,7 +145,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 121,
-    "timeDay": 135,
+    "timeDay": 140,
     "timeWeek": 126,
     "timeMonth": 125,
     "timeYear": 122,
@@ -165,11 +163,11 @@
     "status": "up",
     "uptime": "98.22%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.47%",
+    "uptimeWeek": "96.67%",
     "uptimeMonth": "82.11%",
     "uptimeYear": "93.70%",
     "time": 11999,
-    "timeDay": 1476,
+    "timeDay": 1574,
     "timeWeek": 1415,
     "timeMonth": 1495,
     "timeYear": 11993,
@@ -236,7 +234,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.07%",
     "time": 1433,
-    "timeDay": 1544,
+    "timeDay": 1513,
     "timeWeek": 1138,
     "timeMonth": 1249,
     "timeYear": 1491,
@@ -316,8 +314,7 @@
       "2025-05-24": 22,
       "2025-05-20": 169,
       "2025-05-19": 1440,
-      "2025-05-18": 1440,
-      "2025-05-17": 427
+      "2025-05-18": 1440
     }
   },
   {
@@ -326,18 +323,19 @@
     "icon": "https://fem.mint.lgbt/assets/img/favicon.png",
     "slug": "femgit",
     "status": "down",
-    "uptime": "68.98%",
+    "uptime": "68.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "55.49%",
     "time": 560,
-    "timeDay": 120,
+    "timeDay": 134,
     "timeWeek": 212,
     "timeMonth": 279,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2026-05-16": 1425,
+      "2026-05-17": 106,
+      "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -526,8 +524,7 @@
       "2025-06-21": 74,
       "2025-06-18": 43,
       "2025-06-17": 36,
-      "2025-06-16": 17,
-      "2025-05-17": 232
+      "2025-06-16": 17
     }
   },
   {
@@ -536,18 +533,19 @@
     "icon": "https://chibi.mint.lgbt/apple-touch-icon.png",
     "slug": "chibisafe",
     "status": "down",
-    "uptime": "68.96%",
+    "uptime": "68.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "42.28%",
     "time": 449,
-    "timeDay": 253,
+    "timeDay": 343,
     "timeWeek": 162,
     "timeMonth": 324,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2026-05-16": 1425,
+      "2026-05-17": 106,
+      "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -774,8 +772,7 @@
       "2025-06-21": 103,
       "2025-06-18": 60,
       "2025-06-17": 61,
-      "2025-06-16": 18,
-      "2025-05-17": 240
+      "2025-06-16": 18
     }
   },
   {
@@ -790,7 +787,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1260,
-    "timeDay": 555,
+    "timeDay": 559,
     "timeWeek": 734,
     "timeMonth": 1042,
     "timeYear": 1292,
@@ -808,7 +805,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.20%",
     "time": 1376,
-    "timeDay": 1169,
+    "timeDay": 1188,
     "timeWeek": 1028,
     "timeMonth": 1096,
     "timeYear": 1454,
@@ -889,8 +886,7 @@
       "2025-06-13": 1334,
       "2025-05-20": 169,
       "2025-05-19": 1440,
-      "2025-05-18": 1440,
-      "2025-05-17": 426
+      "2025-05-18": 1440
     }
   },
   {
@@ -905,7 +901,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "32.21%",
     "time": 2265,
-    "timeDay": 928,
+    "timeDay": 716,
     "timeWeek": 893,
     "timeMonth": 1028,
     "timeYear": 1584,
@@ -1180,8 +1176,7 @@
       "2025-05-24": 180,
       "2025-05-20": 169,
       "2025-05-19": 1440,
-      "2025-05-18": 1440,
-      "2025-05-17": 425
+      "2025-05-18": 1440
     }
   },
   {
@@ -1190,18 +1185,19 @@
     "icon": "https://search.mint.lgbt/favicon.ico",
     "slug": "4get",
     "status": "down",
-    "uptime": "89.62%",
+    "uptime": "89.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "80.19%",
+    "uptimeYear": "80.17%",
     "time": 1267,
-    "timeDay": 538,
+    "timeDay": 556,
     "timeWeek": 529,
     "timeMonth": 868,
     "timeYear": 1318,
     "dailyMinutesDown": {
-      "2026-05-16": 1426,
+      "2026-05-17": 106,
+      "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -1327,13 +1323,13 @@
     "icon": "https://shoelace.mint.lgbt/static/img/shoelace.svg",
     "slug": "shoelace",
     "status": "up",
-    "uptime": "42.52%",
+    "uptime": "42.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "24.56%",
     "time": 1054,
-    "timeDay": 689,
+    "timeDay": 717,
     "timeWeek": 868,
     "timeMonth": 895,
     "timeYear": 1076,
@@ -1618,8 +1614,7 @@
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
-      "2025-05-18": 1440,
-      "2025-05-17": 485
+      "2025-05-18": 1440
     }
   },
   {
@@ -1634,7 +1629,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.23%",
     "time": 1077,
-    "timeDay": 697,
+    "timeDay": 718,
     "timeWeek": 868,
     "timeMonth": 956,
     "timeYear": 1125,
